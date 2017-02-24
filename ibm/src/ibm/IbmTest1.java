@@ -17,7 +17,8 @@ import com.ibm.watson.developer_cloud.visual_recognition.v3.model.VisualClassifi
 
 public class IbmTest1 {
 	
-	//test20170224forgit
+	//test20170224forgit 
+	//20170224test234
 	
 	public static void main(String[] args) 
 	{
